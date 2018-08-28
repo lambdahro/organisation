@@ -8,3 +8,11 @@ Titel und eine kurze Zusammenfassung angegeben werden. Gegebenenfalls bitte
 noch einen Vermerk hinterlassen zu welchen Zeiten ein solcher Vortrag 
 möglich bzw. nicht möglich wäre.
 
+### English version
+
+This repository is used to organize appointments and topics/talks for the
+LambdaHRO meetup.
+
+Please create suggestions for topics as issues. Use a topic title and a
+short abstract. If feasible add notes regarding the dates on which a talk
+could or could not be held.
